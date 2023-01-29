@@ -1,7 +1,7 @@
-![Web Design and Developer](https://www.facebook.com/mdmijan9627)
+
 ### Hi👋, I'm Muhammad Mijanur Rahman
 #### Web Design and Developer
-
+![Web Design and Developer](https://www.facebook.com/mdmijan9627)
 I am a Web Developer. I have excellent experience in Responsive website Design and User Friendly.
 
 I also have excellent skills in LARAVEL / PHP/ REACT JS / JAVASCRIPT / BOOTSTRAP5 / HTML / CSS. I can confidently make any website like e-Commerce/ Education/ e-learning/ News Portal.
